@@ -10,6 +10,7 @@ export default function Career() {
 <div className='text-center m-2'>
       <Link to="permanent">Parmanent Jobs</Link>
       <Link to="contract">Contract Jobs</Link>
+      <h1>shufhskfdh</h1>
       </div>
       <Outlet></Outlet>
       
